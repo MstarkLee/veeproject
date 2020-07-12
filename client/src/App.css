@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form .btn {
+  width: 100%;
+}
+
+.withdrwal {
+  margin-top: 100px;
+}
